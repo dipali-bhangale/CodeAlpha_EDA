@@ -1,0 +1,7 @@
+data/StudentPerformanceFactors.csv
+cleaned_student_data.csv
+__pycache__/
+*.pyc
+.venv/
+venv/
+
